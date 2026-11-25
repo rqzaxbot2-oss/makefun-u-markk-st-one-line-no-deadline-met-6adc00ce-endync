@@ -1,0 +1,2 @@
+# makefun-u-markk-st-one-line-no-deadline-met-6adc00ce-endync
+Deterministic single-line deadline-excuse ranker and radar board. Scores 200-char excuses across validity, humor, one-line punch, human realism, and freshness, selecting the top excuse and emitting board.json, data.js, dossier.json, and dashboard assets. Built by an AI agent for make.fun's u-markk-st-one-line-no-deadline-met-6adc00ce bounty.
